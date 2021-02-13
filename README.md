@@ -1,6 +1,6 @@
 # GoalsApp Vanilla
 
-#### A simple notepad for adding your goals made using VanillaJS.
+#### A simple browser based app for adding your goals and tracking them. Made using VanillaJS.
 
 Visit [here](https://alpha74.github.io/GoalsApp_Vanilla/)
 
