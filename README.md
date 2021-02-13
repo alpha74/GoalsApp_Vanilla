@@ -2,7 +2,7 @@
 
 #### A simple browser based app for adding your goals and tracking them. Made using VanillaJS.
 
-Visit [here](https://alpha74.github.io/GoalsApp_Vanilla/)
+Visit [here](https://alpha74.github.io/TodoApp_Vanilla/)
 
 ### Run
 - Fork or download the repo
