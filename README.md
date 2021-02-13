@@ -2,6 +2,7 @@
 
 #### A simple notepad for adding your goals made using VanillaJS.
 
+Visit [here](https://alpha74.github.io/GoalsApp_Vanilla/)
 
 ### Run
 - Fork or download the repo
