@@ -1,4 +1,4 @@
-# GoalsApp Vanilla
+# TodoApp Vanilla
 
 #### A simple browser based app for adding your goals and tracking them. Made using VanillaJS.
 
